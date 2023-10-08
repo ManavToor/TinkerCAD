@@ -1,5 +1,34 @@
-# TinkerCAD
-![a](https://github.com/SavageUnicorn/TinkerCAD/assets/68403400/74d6b5f1-775c-4de3-828b-65a0ff7be3e5)
-![d](https://github.com/SavageUnicorn/TinkerCAD/assets/68403400/9c76c7a2-2b14-4bb3-9336-dd25686ed1a7)
-![c](https://github.com/SavageUnicorn/TinkerCAD/assets/68403400/213b5e4d-9356-42ad-9937-e2234bcb5cf0)
-![b](https://github.com/SavageUnicorn/TinkerCAD/assets/68403400/134c7724-ec39-40a3-b856-59afb7c21f08)
+<h1>Traffic Junction</h1>
+
+<h2>Description</h2>
+Culminating assignment in highschool tech class. Was to make a traffic juntion using one arduino and LED's. Junction had to include an input sensor in the traffic intersection and a way to control the traffic lights from behind the scenes. Because this was during covid, we made it virtually in TinkerCAD.<br />
+<br />
+This is my traffic junction. It includes:<br />
+  -red, yellow, green lights on each side<br />
+  -an advanced green on each side<br />
+  -a white and orange LED on each side to represent pedestrian signals<br />
+  -a button on each side for pedestrians to press signal to the lights to change (the lights will change slower if the button is not pressed)<br />
+  -motion sensors to detect if a car is at the intersection (the lights will change slower if a car is not detected)<br />
+  -a potentiometer to adjust the lights timings<br />
+<br />
+I made this all by myself! (However I did watch tutorials on how to use 8-bit shift register and transistors)<br />
+
+<h2>Languages and Utilities Used</h2>
+
+- <b>Arduino (C++)</b> 
+- <b>TinkerCAD</b>
+
+<h2>What the wiring looks like:</h2>
+
+![Spectacular Juttuli](https://github.com/ManavToor/TinkerCAD/assets/68403400/4f038c27-152c-42a5-a127-35970660e2a1)
+
+
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
