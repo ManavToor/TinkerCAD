@@ -1,15 +1,15 @@
 <h1>Traffic Junction</h1>
 
 <h2>Description</h2>
-Culminating assignment in highschool tech class. Was to make a traffic juntion using one arduino and LED's. Junction had to include an input sensor in the traffic intersection and a way to control the traffic lights from behind the scenes. Because this was during covid, we made it virtually in TinkerCAD.<br />
+Culminating assignment in highschool tech class. Task was to make a traffic juntion using one arduino and LED's. Junction had to include an input sensor in the traffic intersection and a way to control the traffic lights from behind the scenes. Because this was during covid, we made it virtually in TinkerCAD.<br />
 <br />
-This is my traffic junction. It includes:<br />
-  -red, yellow, green lights on each side<br />
-  -an advanced green on each side<br />
-  -a white and orange LED on each side to represent pedestrian signals<br />
-  -a button on each side for pedestrians to press signal to the lights to change (the lights will change slower if the button is not pressed)<br />
-  -motion sensors to detect if a car is at the intersection (the lights will change slower if a car is not detected)<br />
-  -a potentiometer to adjust the lights timings<br />
+<b>This is my traffic junction. It includes:</b><br /><br />
+  &emsp;&emsp;-red, yellow, green lights on each side<br /><br />
+  &emsp;&emsp;-an advanced green on each side<br /><br />
+  &emsp;&emsp;-a white and orange LED on each side to represent pedestrian signals<br /><br />
+  &emsp;&emsp;-a button on each side for pedestrians to press signal to the lights to change (the lights will change slower if the button is not pressed)<br /><br />
+  &emsp;&emsp;-motion sensors to detect if a car is at the intersection (the lights will change slower if a car is not detected)<br /><br />
+  &emsp;&emsp;-a potentiometer to adjust the lights timings<br /><br />
 <br />
 I made this all by myself! (However I did watch tutorials on how to use 8-bit shift register and transistors)<br />
 
